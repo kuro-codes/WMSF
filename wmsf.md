@@ -12,7 +12,7 @@ Es gibt verschiedenste Techniken um Disc Golf Scheiben zu färben. Folgende Arte
 - Klebebettmethode
 - Acrylmediummethode
 
-Zu jeder Methode gibt es eine Auflistgit config --global init.defaultBranchung der benötigten Materialien sowie hilfreiche Hinweise wie man zu guten Ergebnissen damit kommt.
+Zu jeder Methode gibt es eine Auflistung der benötigten Materialien sowie hilfreiche Hinweise wie man zu guten Ergebnissen damit kommt.
 
 ## Die Farben
 Da wir hier versuchen Kunststoffe nachträglich zu Färben ist die Auswahl an Produkten etwas beschränkt. Das sollte aber eigentlich kein Problem darstellen da die Farbauswahl bei den Produkten sehr gut ist.
