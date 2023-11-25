@@ -36,27 +36,27 @@ Das iDye Poly und die ProChem Farben kommen als Pulver, DyeMore Synthetic ist sc
 #### Vorgehen
 #### Resultat
 
-### Lotion Methode
+### Lotion-Methode
 #### Liste von benötigten Utensilien 
 #### Vorgehen
 #### Resultat
 
-### Rasierschaummethode
+### Rasierschaum-Methode
 #### Liste von benötigten Utensilien 
 #### Vorgehen
 #### Resultat
 
-### Klebebettmethode
+### Klebebett-Methode
 #### Liste von benötigten Utensilien 
 #### Vorgehen
 #### Resultat
 
-### Acrylmediummethode
+### Acrylmedium-Methode
 #### Liste von benötigten Utensilien 
 #### Vorgehen
 #### Resultat
 
-### Lotionbettmethode
+### Lotionbett-Methode
 #### Liste von benötigten Utensilien 
 #### Vorgehen
 #### Resultat
