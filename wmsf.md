@@ -8,6 +8,7 @@ Einige Leute im Disc Golf Hobby mögen es ihre Scheiben zu individualisieren und
 Es gibt verschiedenste Techniken um Disc Golf Scheiben zu färben. Folgende Arten werden hier behandelt:
 
 - Handgemalt
+- DipDye
 - Rasierschaummethode
 - Klebebettmethode
 - Acrylmediummethode
@@ -64,4 +65,4 @@ Das iDye Poly und die ProChem Farben kommen als Pulver, DyeMore Synthetic ist sc
 ## Nützliche Links
 
 ## Lizenz
-Dieses Werk ist Lizenziert via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Dieses Werk ist Lizensiert via [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
